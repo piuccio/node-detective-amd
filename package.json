@@ -1,5 +1,5 @@
 {
-  "name": "detective-amd",
+  "name": "piuccio.detective-amd",
   "version": "2.3.4",
   "description": "Find all dependencies within a JavaScript file using AMD module syntax",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrjoelkemp/node-detective-amd"
+    "url": "https://github.com/piuccio/node-detective-amd"
   },
   "keywords": [
     "amd",
@@ -29,9 +29,9 @@
   "author": "Joel Kemp <joel@mrjoelkemp.com> (http://www.mrjoelkemp.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrjoelkemp/node-detective-amd/issues"
+    "url": "https://github.com/piuccio/node-detective-amd/issues"
   },
-  "homepage": "https://github.com/mrjoelkemp/node-detective-amd",
+  "homepage": "https://github.com/piuccio/node-detective-amd",
   "dependencies": {
     "ast-module-types": "^2.3.1",
     "escodegen": "^1.8.0",

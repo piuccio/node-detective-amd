@@ -14,8 +14,7 @@ module.exports = function(src) {
     var deps;
 
     if (!types.isTopLevelRequire(node) &&
-        !types.isDefine(node) &&
-        !types.isRequire(node)) {
+        !types.isDefine(node)) {
       return;
     }
 
